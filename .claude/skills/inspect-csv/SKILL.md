@@ -1,0 +1,1 @@
+pbpaste > .claude/skills/inspect-csv/SKILL.md
